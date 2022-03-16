@@ -32,7 +32,7 @@ _If you would like to see if any slots are currently available, please fill out 
 <textarea name="message"></textarea>
 
 
-<button type="submit" className="goldbutton">Send</button>
+<button type="submit" class="goldbutton">Send</button>
 
 </form>
 </div>
