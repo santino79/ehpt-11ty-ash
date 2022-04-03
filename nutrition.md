@@ -8,6 +8,10 @@ heroType: "AboutHero"
 
 ## Online Nutrition Coaching
 
+### What is online nutrition coaching?
+
+Good question. This will be a good place to start.
+
 There will be a lot of words in here about:
 
 - what online nutrition coaching is
@@ -18,6 +22,8 @@ There will be a lot of words in here about:
 ## What To Expect
 
 Some things you can expect.
+
+You will have a highly qualified, experienced coach working with you to help 
 
 ## How Online Nutrition Coaching Works
 
