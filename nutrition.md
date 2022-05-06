@@ -8,6 +8,31 @@ heroType: "AboutHero"
 
 ## Online Nutrition Coaching
 
+### Feel like you've tried every fad diet and slimming class going but just can't seem to make any long term progress?
+
+**You aren't alone.**
+
+It's perfectly natural to feel low confidence in your ability to make changes. We all have very valid reasons for why our nutrition and diet doesn't take first priority in our lives.
+
+It could be:
+
+- stressful work or family lives
+- not having time to cook nutritious meals and binging on snacks
+- just finding it difficult to shift some holiday weight as we get older
+
+We all go through the cycle of good intentions, poor results and feelings of disappointment as we don't get the long term results we want to see.
+
+The secret to making those long term lifestyle changes to your health, body and, most importantly, mindset is in having a highly trained and experienced nutrition professional to help guide you and keep you accountable on your journey.
+
+And that's where I come in.
+
+## Who am I?
+
+My name is Elizabeth Hylands and I am a personal trainer and nutrition coach from Banbridge, County Down, Northern Ireland.
+
+I'm also a wife and mother and run a small fitness studio for women in our hometown. So I know firsthand just how difficult it can be to believe anyone who claims they have an answer to these problems.
+
+
 ### What is online nutrition coaching?
 
 Good question. This will be a good place to start.
